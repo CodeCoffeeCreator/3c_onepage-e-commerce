@@ -8,3 +8,9 @@
 @import 'banner.css';
 @import 'category.css';
 @import 'sidebar.css';
+@import 'product-min.css';
+@import 'product-feature.css';
+@import 'product-grid.css';
+@import 'testimonials.css';
+@import 'cta.css';
+@import 'footer.css';
