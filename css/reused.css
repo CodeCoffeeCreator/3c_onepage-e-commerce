@@ -7,8 +7,8 @@
 }
 
 .has-scrollbar::-webkit-scrollbar {
-  width: 12px; /* for vertical scroll */
-  height: 12px; /* for horizontal scroll */
+  width: 12px;
+  height: 12px;
 }
 
 .has-scrollbar::-webkit-scrollbar-thumb {
